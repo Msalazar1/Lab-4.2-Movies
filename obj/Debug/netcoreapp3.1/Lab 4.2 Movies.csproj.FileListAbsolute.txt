@@ -1,0 +1,13 @@
+C:\Users\msalazar\source\repos\Lab 4.2 Movies\bin\Debug\netcoreapp3.1\Lab 4.2 Movies.exe
+C:\Users\msalazar\source\repos\Lab 4.2 Movies\bin\Debug\netcoreapp3.1\Lab 4.2 Movies.deps.json
+C:\Users\msalazar\source\repos\Lab 4.2 Movies\bin\Debug\netcoreapp3.1\Lab 4.2 Movies.runtimeconfig.json
+C:\Users\msalazar\source\repos\Lab 4.2 Movies\bin\Debug\netcoreapp3.1\Lab 4.2 Movies.runtimeconfig.dev.json
+C:\Users\msalazar\source\repos\Lab 4.2 Movies\bin\Debug\netcoreapp3.1\Lab 4.2 Movies.dll
+C:\Users\msalazar\source\repos\Lab 4.2 Movies\bin\Debug\netcoreapp3.1\Lab 4.2 Movies.pdb
+C:\Users\msalazar\source\repos\Lab 4.2 Movies\obj\Debug\netcoreapp3.1\Lab 4.2 Movies.csprojAssemblyReference.cache
+C:\Users\msalazar\source\repos\Lab 4.2 Movies\obj\Debug\netcoreapp3.1\Lab 4.2 Movies.AssemblyInfoInputs.cache
+C:\Users\msalazar\source\repos\Lab 4.2 Movies\obj\Debug\netcoreapp3.1\Lab 4.2 Movies.AssemblyInfo.cs
+C:\Users\msalazar\source\repos\Lab 4.2 Movies\obj\Debug\netcoreapp3.1\Lab 4.2 Movies.csproj.CoreCompileInputs.cache
+C:\Users\msalazar\source\repos\Lab 4.2 Movies\obj\Debug\netcoreapp3.1\Lab 4.2 Movies.dll
+C:\Users\msalazar\source\repos\Lab 4.2 Movies\obj\Debug\netcoreapp3.1\Lab 4.2 Movies.pdb
+C:\Users\msalazar\source\repos\Lab 4.2 Movies\obj\Debug\netcoreapp3.1\Lab 4.2 Movies.genruntimeconfig.cache
